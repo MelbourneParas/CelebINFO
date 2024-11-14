@@ -2,7 +2,7 @@
 Celebrity Info
 
 # Features
-<<<<<<< HEAD
+
 * Share Projects
 * Message other developers
 * Rate others work
