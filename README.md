@@ -51,5 +51,4 @@ HTML, CSS and JS
 # Sign In Screen
 
 
-# Tabs Screen
->>>>>>> d8cd889acada504abf6bf1b393accf09161ca264
+
